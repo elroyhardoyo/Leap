@@ -1,0 +1,15 @@
+{
+    "name": "elroy/leap",
+    "description": "My first composer",
+    "require": {
+        "php": "^5.5"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "elroyhardoyo",
+            "email": "elroy.hardoyo@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
