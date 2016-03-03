@@ -13,6 +13,7 @@ class SayHello
 {
     public static function world()
     {
+        //apa ini coba version
         return 'Hello World, Composer!';
     }
 }
